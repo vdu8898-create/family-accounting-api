@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+dashscope
+pydantic
+python-dotenv
+httpx
